@@ -1,2 +1,1 @@
-Đây là project lập trình hướng đối tượng mà tôi đã thực hiện trong năm hai đại học.
-Dự án này tập trung vào việc phát triển game BrickBreaker, nhằm rèn luyện và áp dụng các kiến thức về lập trình hướng đối tượng một cách thực tế.
+This is an object-oriented programming project that I worked on during my second year of university. The project focuses on developing the BrickBreaker game, aiming to practice and apply object-oriented programming concepts in a practical way.
